@@ -1,0 +1,94 @@
+{
+    "shopping":[
+
+        {
+            "Serialno" : "1",
+            "Name" : "Milk",
+            "Quantity" : "1",
+            "Unit" : "Litre",
+            "Department" : "Dairy",
+            "Notes" : "Milma cover"
+        },
+
+        {
+            "Serialno" : "2",
+            "Name" : "Tea Powder",
+            "Quantity" : "2",
+            "Unit" : "Kilograms",
+            "Department" : "Kannan Devan Tea",
+            "Notes" : "Packets"
+        },
+
+        {
+            "Serialno" : "3",
+            "Name" : "Rice",
+            "Quantity" : "4",
+            "Unit" : "Kilogram",
+            "Department" : "Basmathy",
+            "Notes" : "Packets"
+        },
+
+        {
+            "Serialno" : "4",
+            "Name" : "Chicken",
+            "Quantity" : "2",
+            "Unit" : "Kilograms",
+            "Department" : "Meat",
+            "Notes" : "Fresh Meat"
+        },
+
+        {
+            "Serialno" : "5",
+            "Name" : "Lemon",
+            "Quantity" : "5",
+            "Unit" : "Pieces",
+            "Department" : "Vegetable",
+            "Notes" : "Fresh Lemons"
+        },
+
+        {
+            "Serialno" : "6",
+            "Name" : "Tooth Paste",
+            "Quantity" : "2",
+            "Unit" : "Packets",
+            "Department" : "Colgate",
+            "Notes" : "Combo "
+        },
+
+        {
+            "Serialno" : "7",
+            "Name" : "Apple",
+            "Quantity" : "3",
+            "Unit" : "Kilograms",
+            "Department" : "Fruits",
+            "Notes" : "Fresh"
+        },
+
+        {
+            "Serialno" : "8",
+            "Name" : "Orange",
+            "Quantity" : "2",
+            "Unit" : "Kilograms",
+            "Department" : "Fruits",
+            "Notes" : "Fresh"
+        },
+
+        {
+            "Serialno" : "9",
+            "Name" : "Ginger-Garlic",
+            "Quantity" : "1",
+            "Unit" : "Packet",
+            "Department" : "Vegetables",
+            "Notes" : "Fresh"
+        },
+
+        {
+            "Serialno" : "10",
+            "Name" : "AAtta",
+            "Quantity" : "1",
+            "Unit" : "Kilogram",
+            "Department" : "Ashirvad",
+            "Notes" : "packets"
+        }
+    ]
+}
