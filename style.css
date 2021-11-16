@@ -23,14 +23,16 @@ th {
   text-align: center;
   padding: 5px;
   background-color: hsl(39, 88%, 68%);
-  /* filter: brightness(300%); */
 }
 table {
   width: 75%;
   height: 100%;
 }
-
 td {
   padding: 5px;
-  background-color: hsl(39, 88%, 58%);
+  background-color: hsl(39, 88%, 58%); 
 }
+tr:hover td{
+  background-color: hsl(39, 90%, 33%); 
+}
+
